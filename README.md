@@ -19,6 +19,9 @@ The Zakat Calculator web app is a user-friendly tool designed to simplify the pr
 3. Run the development server using `npm run dev`.
 4. Access the app in your browser at `http://localhost:5173`.
 
+##View the Project Documentation on google docs
+https://docs.google.com/document/d/14oHkiKycJzuiEHFPb3tUUmj6_hKDMv9AIN43QlZuiis/edit#heading=h.5uoc4mfz7mn4
+
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or new features.
